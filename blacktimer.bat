@@ -59,7 +59,7 @@ echo.>> %datafilefull%
 echo ======== >> %datafilefull%
 echo.>> %datafilefull%
 echo Set from: %todaydate_for_disp% %todaytime_for_disp%.  >> %datafilefull%
-echo Wait sec: %waitmin% Minutes.  >> %datafilefull%
+echo Wait min: %waitmin% Minutes.  >> %datafilefull%
 
 title %waitmin%•ªŒã‚ÉƒŠƒ}ƒCƒ“ƒh
 timeout /T %waitsec% /nobreak
